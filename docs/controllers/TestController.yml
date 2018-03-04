@@ -1,0 +1,10 @@
+/api/time:
+  get:
+    tags:
+      - Test
+    summary: Show current time
+    responses:
+      200:
+        description: Show current time
+        example:
+          message: "Time: Sun Mar 04 2018 12:11:21 GMT+0700 (SE Asia Standard Time)"
