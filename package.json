@@ -26,7 +26,7 @@
     "@adonisjs/lucid": "^5.0.2",
     "@adonisjs/session": "^1.0.20",
     "@adonisjs/shield": "^1.0.6",
-    "adonis-swagger": "^1.2.4"
+    "adonis-swagger": "^1.2.7"
   },
   "devDependencies": {},
   "autoload": {
